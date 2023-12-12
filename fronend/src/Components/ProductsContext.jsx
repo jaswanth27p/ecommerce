@@ -61,7 +61,6 @@ export function ProductsContext({ children }) {
             { name: "LG", inStock: true },
             { name: "XL", inStock: true },
             { name: "2XL", inStock: false },
-            
           ],
           discription: {
             about:
